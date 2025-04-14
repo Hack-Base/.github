@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Build Together, Grow Together!</h1>
-    <img src="https://i.ibb.co/d4Zvw0LK/generate-logo-with-Hack-Base.jpg" height="180" />
+    <img src="https://i.ibb.co/d4Zvw0LK/generate-logo-with-Hack-Base.jpg" />
     <p><b>HackBase</b> is a collaborative space for building real-world open source projects together.</p>
     <p>Whether you're new to open source or a seasoned contributor, we’re here to support your journey.</p>
 </div>
